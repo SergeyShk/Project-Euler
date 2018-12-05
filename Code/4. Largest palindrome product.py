@@ -5,11 +5,11 @@
 
 def problem_4(digit):
     palindrome = 0
-    for i in range(1, 10 ** digit):
-        for j in range(1, 10 ** digit):
+    for i in range(1, 10**digit):
+        for j in range(1, 10**digit):
             n = i * j
             if str(n) == str(n)[::-1]:
                 palindrome = max(n, palindrome)
     return palindrome
 
-print(problem_4(1))
+print(problem_4(3))

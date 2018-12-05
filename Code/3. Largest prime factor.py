@@ -8,7 +8,7 @@ def problem_3(num):
     if num % 2 == 0:
         max_prime = 2
         num /= 2
-    for i in range(3, round(num ** 0.5) + 1, 2):
+    for i in range(3, round(num**0.5) + 1, 2):
         if num % i == 0:
             max_prime = max(max_prime, i)
             num /= i
