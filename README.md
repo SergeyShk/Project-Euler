@@ -1,4 +1,9 @@
 # Project-Euler
+ 
+<p align="center"> 
+<img src="Images/title.jpg" width="500">
+</p>
+
 My solutions to the problems of the Project Euler
 
 # Project-Euler
@@ -21,3 +26,8 @@ My solutions to the problems of the Project Euler
 | 13 | Large sum | 5537376230 |
 | 14 | Longest Collatz sequence | 837799 |
 | 15 | Lattice paths | 137846528820 |
+| 16 | Power digit sum | 1366 |
+| 17 | Number letter counts | 21124 |
+| 18 | Maximum path sum I | 1074 |
+| 19 | Counting Sundays | 171 |
+| 20 | Factorial digit sum | 648 |
