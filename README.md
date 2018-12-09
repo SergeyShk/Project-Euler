@@ -6,9 +6,6 @@
 
 My solutions to the problems of the Project Euler
 
-# Project-Euler
-My solutions to the problems of the Project Euler
-
 | № | Title | Solution |
 | :---: | :---: | :---: |
 | 1 | Multiples of 3 and 5 | 233168 |
