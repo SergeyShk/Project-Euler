@@ -30,3 +30,8 @@ My solutions to the problems of the Project Euler
 | 18 | Maximum path sum I | 1074 |
 | 19 | Counting Sundays | 171 |
 | 20 | Factorial digit sum | 648 |
+| 21 | Amicable numbers | 31626 |
+| 22 | Names scores | 871198282 |
+| 23 | Non-abundant sums | 4179871 |
+| 24 | Lexicographic permutations | 2783915460 |
+| 25 | 1000-digit Fibonacci number | 4782 |
