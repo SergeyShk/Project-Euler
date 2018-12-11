@@ -10,7 +10,7 @@ def problem_2(lim):
     n = 3
     sum = 2
     while fib < lim:
-        fib = fibs[n-3] + fibs[n-2]
+        fib = fibs[n - 3] + fibs[n - 2]
         fibs.append(fib)
         if fib % 2 == 0:
              sum += fib
