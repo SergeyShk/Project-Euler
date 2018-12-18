@@ -1,4 +1,4 @@
-# Project-Euler
+# Project Euler
  
 <p align="center"> 
 <img src="Images/title.jpg" width="500">
@@ -40,3 +40,8 @@ My solutions to the problems of the Project Euler
 | 28 | Number spiral diagonals | 669171001 |
 | 29 | Distinct powers | 9183 |
 | 30 | Digit fifth powers | 443839 |
+| 31 | Coin sums | 73682 |
+| 32 | Pandigital products | 45228 |
+| 33 | Digit cancelling fractions | 100 |
+| 34 | Digit factorials | 40730 |
+| 35 | Circular primes | 55 |
