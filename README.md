@@ -45,3 +45,8 @@ My solutions to the problems of the Project Euler
 | 33 | Digit cancelling fractions | 100 |
 | 34 | Digit factorials | 40730 |
 | 35 | Circular primes | 55 |
+| 36 | Double-base palindromes | 872187 |
+| 37 | Truncatable primes | 748317 |
+| 38 | Pandigital multiples | 932718654 |
+| 39 | Integer right triangles | 840 |
+| 40 | Champernowne's constant | 210 |
