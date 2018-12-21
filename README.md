@@ -50,3 +50,8 @@ My solutions to the problems of the Project Euler
 | 38 | Pandigital multiples | 932718654 |
 | 39 | Integer right triangles | 840 |
 | 40 | Champernowne's constant | 210 |
+| 41 | Pandigital prime | 7652413 |
+| 42 | Coded triangle numbers | 748317 |
+| 43 | Sub-string divisibility | 16695334890 |
+| 44 | Pentagon numbers | 5482660 |
+| 45 | Triangular, pentagonal, and hexagonal | 1533776805 |
