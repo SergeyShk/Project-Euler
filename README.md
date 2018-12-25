@@ -55,3 +55,8 @@ My solutions to the problems of the Project Euler
 | 43 | Sub-string divisibility | 16695334890 |
 | 44 | Pentagon numbers | 5482660 |
 | 45 | Triangular, pentagonal, and hexagonal | 1533776805 |
+| 46 | Goldbach's other conjecture | 5777 |
+| 47 | Distinct primes factors | 134043 |
+| 48 | Self powers | 9110846700 |
+| 49 | Prime permutations | 296962999629 |
+| 50 | Consecutive prime sum | 997651 |
