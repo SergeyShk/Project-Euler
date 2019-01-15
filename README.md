@@ -60,3 +60,8 @@ My [solutions](https://projecteuler.net/progress=Kouki) to the problems of the P
 | 48 | Self powers | 9110846700 |
 | 49 | Prime permutations | 296962999629 |
 | 50 | Consecutive prime sum | 997651 |
+| 51 | Prime digit replacements | 121313 |
+| 52 | Permuted multiples | 142857 |
+| 53 | Combinatoric selections | 4075 |
+| 54 | Poker hands | 376 |
+| 55 | Lychrel numbers | 249 |
