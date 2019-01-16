@@ -10,6 +10,19 @@
 '''
 
 def problem_28(size):
+    sums_diag = 1
+    for s in range(3, size + 1, 2):
+        corner_1 = s**2 - 3 * s + 3
+        corner_2 = s**2 - 2 * s + 2
+        corner_3 = s**2 - 1 * s + 1
+        corner_4 = s**2
+        sums_diag += corner_1 + corner_2 + corner_3 + corner_4
+    return sums_diag
+
+print(problem_28(1001))
+
+# Solution with moving
+'''
     grid = [[0 for i in range(size)] for j in range(size)]
     x, y = size // 2, size // 2
     dx, dy = 0, 1
@@ -30,5 +43,4 @@ def problem_28(size):
         if i != size // 2:
             sums_diag += grid[i][i] + grid[i][size - i - 1]
     return sums_diag
-    
-print(problem_28(1001))
+'''
