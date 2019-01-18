@@ -65,3 +65,8 @@ My [solutions](https://projecteuler.net/progress=Kouki) to the problems of the P
 | 53 | Combinatoric selections | 4075 |
 | 54 | Poker hands | 376 |
 | 55 | Lychrel numbers | 249 |
+| 56 | Powerful digit sum | 972 |
+| 57 | Square root convergents | 153 |
+| 58 | Spiral primes | 26241 |
+| 59 | XOR decryption | 107359 |
+| 60 | Prime pair sets | 26033 |
