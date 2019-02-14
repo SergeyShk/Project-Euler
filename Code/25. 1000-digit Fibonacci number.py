@@ -19,14 +19,10 @@
 '''
 
 def problem_25(digits):
-    fibs = [1, 2]
-    fib = 2
-    n = 3
-    sum = 2
-    while len(str(fib)) < digits:
-        fib = fibs[n - 3] + fibs[n - 2]
-        fibs.append(fib)
-        sum += fib
+    a, b = 0, 1
+    n = 1
+    while len(str(b)) < digits:
+        a, b = b, a + b
         n += 1
     return n
 

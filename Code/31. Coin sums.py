@@ -6,24 +6,14 @@
     How many different ways can £2 be made using any number of coins?
 '''
 
-def problem_31():
-    ways = 2
-    for po_1 in range(2):
-        total_po_1 = po_1 * 100
-        for pe_50 in range((200 - total_po_1) // 50 + 1):
-            total_pe_50 = total_po_1 + pe_50 * 50
-            for pe_20 in range((200 - total_pe_50) // 20 + 1):
-                total_pe_20 = total_pe_50 + pe_20 * 20
-                for pe_10 in range((200 - total_pe_20) // 10 + 1):
-                    total_pe_10 = total_pe_20 + pe_10 * 10
-                    for pe_5 in range((200 - total_pe_10) // 5 + 1):
-                        total_pe_5 = total_pe_10 + pe_5 * 5
-                        for pe_2 in range((200 - total_pe_5) // 2 + 1):
-                            total_pe_2 = total_pe_5 + pe_2 * 2
-                            for pe_1 in range(200 - total_pe_2 + 1):
-                                total_pe_1 = total_pe_2 + pe_1
-                                if total_pe_1 == 200:
-                                    ways += 1
-    return ways
+def problem_31(n, coins):
+    ways = [1] + [0] * n
+    for coin in coins:
+        for i in range(coin, n + 1):
+            ways[i] += ways[i - coin]
+    if n == 0:
+        return 0
+    else:
+        return ways[n]
     
-print(problem_31())
+print(problem_31(200, [1, 2, 5, 10, 20, 50, 100, 200]))
