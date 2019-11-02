@@ -72,3 +72,4 @@ My [solutions](https://projecteuler.net/progress=Kouki) to the problems of the P
 | 60 | Prime pair sets | 26033 |
 | 61 | Cyclical figurate numbers | 28684 |
 | 62 | Cubic permutations | 127035954683 |
+| 63 | Powerful digit counts | 49 |
