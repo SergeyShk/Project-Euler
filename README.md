@@ -70,3 +70,4 @@ My [solutions](https://projecteuler.net/progress=Kouki) to the problems of the P
 | 58 | Spiral primes | 26241 |
 | 59 | XOR decryption | 107359 |
 | 60 | Prime pair sets | 26033 |
+| 61 | Cyclical figurate numbers | 28684 |
